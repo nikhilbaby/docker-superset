@@ -1,4 +1,4 @@
-REPO             := nikhilbaby/hws-superset
+REPO             := amancevice/superset
 STAGES           := build dist final
 NODE_VERSION     := 12
 PYTHON_VERSION   := 3.6
